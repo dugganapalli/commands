@@ -1,0 +1,4 @@
+TO run background 
+-----------------
+
+nohup ./node_exporter  &
